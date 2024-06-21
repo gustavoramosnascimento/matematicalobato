@@ -6,3 +6,30 @@ table {
     width: 100;
     border-collapse: collapse;
 }
+ 
+th, td {
+ border: 1px solid #ddd;
+padding: 8%;
+text-align: center;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+input[type="number"] {
+    width: 60px;
+}
+
+button {
+background-color: #45af50;
+color: white;
+padding: 0px  10px;
+border: none;
+cursor: pointer;
+}
+
+button:hover {
+    background-color: #45af50;
+}
+    
